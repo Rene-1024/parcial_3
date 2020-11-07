@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: grey;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+p{
+    font-size: 20px;
+}
+.visita{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
